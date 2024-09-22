@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://caredawigohe.b-cdn.net/sitemap.xml
